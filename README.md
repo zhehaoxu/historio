@@ -24,6 +24,7 @@
 - [高句丽世系](./image/%E4%B8%96%E7%B3%BB/%E9%AB%98%E5%8F%A5%E4%B8%BD%E4%B8%96%E7%B3%BB.png)
 - [百济世系](./image/%E4%B8%96%E7%B3%BB/%E7%99%BE%E6%B5%8E%E4%B8%96%E7%B3%BB.png)
 - [新罗世系](./image/%E4%B8%96%E7%B3%BB/%E6%96%B0%E7%BD%97%E4%B8%96%E7%B3%BB.png)
+- [日本天皇世系](./image/%E4%B8%96%E7%B3%BB/%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E4%B8%96%E7%B3%BB.png)
 
 - [西汉世系](./image/%E4%B8%96%E7%B3%BB/%E8%A5%BF%E6%B1%89%E4%B8%96%E7%B3%BB.png)
 
